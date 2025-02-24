@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+.DS_Store
+*.pyc
+.swp
+tags
+node_modules
 __pycache__/
 *.py[cod]
 *$py.class
@@ -21,7 +26,6 @@ sdist/
 var/
 wheels/
 share/python-wheels/
-*.egg-info/
 .installed.cfg
 *.egg
 MANIFEST
